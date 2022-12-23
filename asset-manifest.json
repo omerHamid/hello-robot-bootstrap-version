@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hello-robot-bootstrap-version/static/css/main.8707afcb.css",
+    "main.js": "/hello-robot-bootstrap-version/static/js/main.1cf9ccd1.js",
+    "index.html": "/hello-robot-bootstrap-version/index.html",
+    "main.8707afcb.css.map": "/hello-robot-bootstrap-version/static/css/main.8707afcb.css.map",
+    "main.1cf9ccd1.js.map": "/hello-robot-bootstrap-version/static/js/main.1cf9ccd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8707afcb.css",
+    "static/js/main.1cf9ccd1.js"
+  ]
+}
